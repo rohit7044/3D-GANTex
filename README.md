@@ -13,7 +13,8 @@ face shape.
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rohit7044/3DGANTex/graphs/commit-activity)
 
 
-![workflow](https://lucid.app/publicSegments/view/8ff49995-cb25-47ae-9dca-5aa88caee4a9/image.jpeg)
+<!-- ![workflow](https://lucid.app/publicSegments/view/8ff49995-cb25-47ae-9dca-5aa88caee4a9/image.jpeg) -->
+![workflow](3DGANTex_pipeline.png)
 
 
 ## Update v1.0
