@@ -16,6 +16,7 @@ face shape.
 <!-- ![workflow](https://lucid.app/publicSegments/view/8ff49995-cb25-47ae-9dca-5aa88caee4a9/image.jpeg) -->
 ![workflow](3DGANTex_pipeline.png)
 
+## Paper Released [here](https://arxiv.org/abs/2410.16009)
 
 ## Update v1.0
 1. Cleaned up some dependency issues.
