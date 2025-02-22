@@ -64,7 +64,7 @@ and follow the instructions in readme.md
 1. Clone the Repo:
 
 ~~~ 
-git clone https://github.com/rohit7044/3DGANTex 
+git clone https://github.com/rohit7044/3D-GANTex 
 ~~~
 2. Download both the pretrained models mentioned above
 3. Build the cython version of NMS, Sim3DR, and the faster mesh render on the main directory 
